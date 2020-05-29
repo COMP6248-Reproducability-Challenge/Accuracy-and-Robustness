@@ -5,15 +5,16 @@ The paper selected is 'HOW TRAINING DATA AFFECT THE ACCURACY AND ROBUSTNESS OF N
 The original paper is available at [OpenReview](https://openreview.net/pdf?id=HklKWhC5F7)
 
 ## Report
-Our report is available at [Here]
+Our report is available at [Here](https://sotonac-my.sharepoint.com/:b:/g/personal/yz3a19_soton_ac_uk/EXxl_obQIedFs-Z1dvPZ0v8BaR7Rj4P2RGs7znt-MaxcMQ?e=xoCSNJ)
 
 ## How to Run
 1. Run train.py to train a model.
 2. Run evaluate.py to evaluate robustness.
 
-## Authors
+## Team members
 Yixiao Zhang, yz3a19(at)soton.ac.uk<br>
 Haohan Li, hl10y19(at)soton.ac.uk<br>
 Zhiwen Yu, zy3y19(at)soton.ac.uk
 
-*This code is provided under the BSD 2-clause license.
+## License and copyright notice
+This code is provided under the BSD 2-clause license.
