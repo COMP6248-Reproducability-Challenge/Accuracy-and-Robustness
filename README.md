@@ -1,2 +1,5 @@
-# Accuracy-and-Robustness
-Coursework of COMP6248 2019/2020
+# HOW TRAINING DATA AFFECT THE ACCURACY AND ROBUSTNESS OF NEURAL NETWORKS FOR IMAGE CLASSIFICATION
+Reproduce the paper named 'HOW TRAINING DATA AFFECT THE ACCURACY AND ROBUSTNESS OF NEURAL NETWORKS FOR IMAGECLASSIFICATION', which was submitted to ICLR 2019 conference. 
+
+The original paper is available at: https://openreview.net/pdf?id=HklKWhC5F7
+
